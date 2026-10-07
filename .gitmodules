@@ -1,0 +1,4 @@
+[submodule "kit"]
+	path = kit
+	url = https://github.com/cyberscribe/agentic-workspace-kit.git
+	branch = main
